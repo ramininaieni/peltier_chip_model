@@ -1,6 +1,6 @@
 # peltier_chip_model
 This repository includes code in Julia that can be used to model the behavior of any Peltier chip well, given twenty experimental data points that are often provided by Peltier chip manufacturers. To easily take users through the code, it is in the format of a Jupyter notebook.
-# Ubuntu Installation Instructions
+<h2> Ubuntu Installation Instructions</h2>
 <h3>Setting up Julia</h3>
 If you don't have Julia, in terminal run <code>sudo-apt install Julia</code>. This method works for running my code, but others recommend a more foolproof method of installation detailed here: https://medium.com/coffee-in-a-klein-bottle/install-julia-1-5-on-ubuntu-bb8be4b2571d
 
