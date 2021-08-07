@@ -12,10 +12,10 @@ In your conda environment, run <code>jupyter-notebook</code> and navigate to the
 <h2>Power of Model</h2>
 Here are some graphs depicting how well my model predicted the behavior of some of <a href = "https://tetech.com/peltier-thermoelectric-cooler-modules/standard/" target = "_blank">TE Tech's Peltier Chips</a>
 <h4>HP-127-1.0-1.3-71 Thermoelectric Module</h4>
-![alt text](https://github.com/ramininaieni/peltier_chip_model/blob/main/Media/cop_first_chip.png?raw=true)
-![alt text](https://github.com/ramininaieni/peltier_chip_model/blob/main/Media/currents_first_chip.png)
-![alt text](https://github.com/ramininaieni/peltier_chip_model/blob/main/Media/heats_pumped_first_chip.png)
+<img src = "https://github.com/ramininaieni/peltier_chip_model/blob/main/Media/cop_first_chip.png">
+<img src = "https://github.com/ramininaieni/peltier_chip_model/blob/main/Media/currents_first_chip.png">
+<img src = "https://github.com/ramininaieni/peltier_chip_model/blob/main/Media/heats_pumped_first_chip.png">
 <h4>TE-71-1.0-2.0 Thermoelectric Module</h4>
-![alt text](https://github.com/ramininaieni/peltier_chip_model/blob/main/Media/cop_second_chip.png)
-![alt text](https://github.com/ramininaieni/peltier_chip_model/blob/main/Media/currents_second_chip.png) 
-![alt text](https://github.com/ramininaieni/peltier_chip_model/blob/main/Media/heats_pumped_second_chip.png)
+<img src = "https://github.com/ramininaieni/peltier_chip_model/blob/main/Media/cop_second_chip.png">
+<img src = "https://github.com/ramininaieni/peltier_chip_model/blob/main/Media/currents_second_chip.png">
+<img src = "https://github.com/ramininaieni/peltier_chip_model/blob/main/Media/heats_pumped_second_chip.png">
